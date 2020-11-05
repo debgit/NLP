@@ -1,4 +1,4 @@
-# Session 7 Assignment
+# Session 3 Assignment
 
 ### def fibonacci(n:'int'):
 Generates Fibonacci number given for a range passed in as a parameter.
@@ -41,4 +41,3 @@ registration_number = partial(generate_number_plate_flexible,area_code = random.
 
 ### Get number plate
 def get_number_plate(state_code): return [registration_number(state_code) for i in range(15)]
-
