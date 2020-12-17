@@ -1,0 +1,70 @@
+Please find the Job Description. 
+experience in data analytics & AI/ML
+Has managed at least 2 large data science programs
+Able to manage large teams with diverse skills sets (data scientists, data engineers, UI specialists, BAs)
+Able to engage with client leadership (business & IT) to drive project deliverables
+Highly proficient with Agile delivery methodologies; able to define sprints & run scrum meetings
+4+ years hands-on experience with R, Python
+Understanding/exposure to R-Shiny apps
+Understanding of analytical & statistical modeling
+Deep understanding of data architecture & data engineering
+Ability to engage with technical and business stakeholders
+Ability to draw data science and advanced analytics based solutions to meet business needs
+Deep understanding of cloud architectures and solutions 
+
+………………………. Data Science JD
+Mandatory Requirements:
+• Strong background with time series data analytics (prediction, pattern detection, anomaly detection, trending/seasonality).
+• Working knowledge of predictive maintenance and PHM (preferable in the Mobility industry).
+• Highly proficient with python and a standard set of python libraries for machine learning and statistics.
+• Experience with python-based visualization libraries (such as plotly, streamlit, and dash) for developing interactive datadriven applications. Candidates will be asked to demonstrate their previous projects.
+• Experience with developing applications in MS Azure using open-source libraries and MS Azure DevOps.
+• Experience with git, github, and release management tools.
+• Fluent in English. French is a plus.
+ 
+Desired Requirements:
+• Experience with PowerBI, QlikView, and Grafana visualization tools.
+• Experience in building NLP/NLU applications using free text and log files (spaCy, BERT, GPT-2/3, Transformers, Transfer Learning)
+• Experience with Traffic Modeling.
+• Experience with LINUX environment (shell scripting)
+ 
+Essential Responsibilities:
+• Develop approaches to mine, extract, and normalize various types of information from numerous disparate data sources, based on the customer requirements.
+• Develop industrial-grade analytics modules and tools designed to address business needs and solve complex problems. This includes designing, coding, validating, testing, automating, and scaling ML/data science algorithms to meet TRL8 requirements.
+• Suggest and apply a strong testing and quality assurance practices.`
+• Support proof-of-concept field trials with our customers using the mobility analytics software modules and tools.
+• Present results in a clear manner using interactive dashboards and reports.
+• Attend meetings, submit work progress reports, and perform related duties as required.
+• Support building the data science team with recruiting process, needed tools and required trainings.
+ 
+Educational Qualifications and Related Experience:
+• M.S. degree (with supplemented training) in data analytics, data science, machine learning, or applied mathematics. Ph.D. degree in the fields of machine learning or statistics or applied mathematics is strongly preferred.
+• Ten or more (10+) years of experience in two (2) or more of the following: data analytics, machine learning, AI. Theoretical knowledge would not be considered.
+
+Intelligent Automation hub: Data moving into cloud from all regions. Delivery owned program.
+1. share similar experience of previous work
+2. GCP 
+Lead Data Scientist/AI Solution Architect – 1 (C2/D1) – ML, NLP, Python, OCR & Image processing GCP/Cloud Preferred
+Sr Data Scientist 2(C1)  – ML, NLP, Python, OCR & Image Processing, GCP/Cloud Preferred.
+Data Scientist 4(B2,B1) – Python, NLP, ML
+Qlick, ETL, 
+4 poc in predictive analysis
+limited knowledge in automative domain in current team
+UD truck, end to end whole life cycle- reading to be done in the company profile and work
+operational analytics
+interactive to business people including gathering requirement
+present busines case with ROI to leadership
+i.	Business skills
+1.	Approaching high-level challenges, employing the right approach/methods to make the maximum use of time and human resources.  
+2.	 Detailing your techniques and discoveries to technical and non-technical audiences in a language, they can understand. 
+3.	 Exploring new territories and finding creative and unusual ways to solve problems.  
+4.	  Deep exposure in manufacturing domain(Automotive preferred)
+5.	Ability to present business case to leadership is highly desirable
+ii.	Technical Skills
+1.	Experience using statistical computer languages (Python, TensorFlow, SQL, etc.)  to manipulate data and draw insight from large datasets. 
+2.	 Strong conceptual understanding of machine learning algorithms including linear regression, logistic regression, decision tree, random forest, topic model etc. 
+3.	 Experience working with and creating data architectures. · Knowledge of a variety of machine learning techniques (regression, classification, clustering, time series, neural network, etc.)  
+4.	 Knowledge of advance statistical techniques and concepts (distribution, statistical tests, etc.) with limitation and proper use.  · Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Tress, Text mining, social network analysis, etc.  
+5.	 Should be able to perform data mining, data cleaning for structured and unstructured data. 
+6.	Exposure to visualization tools like Qliksense and PowerBI is mandatory.  
+7.	 Exposure to Azure Analytics suite is mandatory
